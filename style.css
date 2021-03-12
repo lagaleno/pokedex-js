@@ -1,0 +1,26 @@
+nav {
+    background-color:#B71C1C ;
+}
+
+body {
+    background-color: white;
+}
+
+
+.container {
+    margin-top: 100px;
+    background-color: white;
+}
+
+.btn-floating {
+    background-color:#B71C1C;
+}
+
+.btn-floating:hover {
+    background-color:#6b1111;
+}
+
+#pokemon-name {
+    color: black;
+}
+
